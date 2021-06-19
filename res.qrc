@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bagua.json</file>
+        <file>yijing.jpeg</file>
+        <file>taiji_win.ico</file>
+    </qresource>
+</RCC>
