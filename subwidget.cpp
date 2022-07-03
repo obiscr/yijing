@@ -76,7 +76,6 @@ void SubWidget::showGua(int hex, QString string){
 
     MainWindow *w = MainWindow::getInstance();
     int width = w->width();
-    int height = w->height();
     int x = w->pos().x();
     int y = w->pos().y();
 
@@ -85,20 +84,18 @@ void SubWidget::showGua(int hex, QString string){
     int screen_width = mm.width();
     int screen_height = mm.height();
 
-    // 默认屏幕正中央
     int real_x = (screen_width >> 1)  - (WIDGET_WIDTH >> 1);
     int real_y = (screen_height >> 1) - (WIDGET_HEIGHT >> 1);
 
-    // 如果屏幕分辨率大于两个窗口的总宽度，才会在左侧或者右侧显示
-    // 否则用默认值显示在正中央
-    if(screen_width > width + WIDGET_WIDTH){
-        // 右侧空间不够，则显示到左侧
-        if(x + width + WIDGET_WIDTH > screen_width){
-            real_x = x - WIDGET_WIDTH;
+    if (screen_width > width + WIDGET_WIDTH)
+    {
+        if (x + width + WIDGET_WIDTH > screen_width)
+        {
+            real_x = x - WIDGET_WIDTH;// 右侧空间不够，则显示到左侧
             real_y = y;
-        // 右侧空间足够，则显示到右侧
-        } else {
-            real_x = x + width;
+        } else 
+        {
+            real_x = x + width; // 右侧空间足够，则显示到右侧
             real_y = y;
         }
     }
