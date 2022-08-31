@@ -3,29 +3,27 @@
 基于C++开发的64卦变换表。
 
 ## 预览
+![yijing-pro](https://user-images.githubusercontent.com/28687074/187737429-a10f1b83-bcd5-4ebd-84f2-e813e53a6b92.gif)
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yijing-pro/yijing-pro.gif?versionId=CAEQUBiBgMCK3OOH0RciIDMxMjk5NWRlZTFhZTRlZWU5MTgwZTllMTUwMjI3ZGM3)
+<img alt="yijing-pro1" src="https://user-images.githubusercontent.com/28687074/187737484-e8e7a001-3a85-42e9-85ee-b1d3067f701a.png">
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yijing-pro/yijing-pro1.png?versionId=CAEQUBiBgMD02.OH0RciIGY2MWFmOGZmNDFmNDQzOTk4ZWQ4OTI0MmZkMTVjMGI5)
+<img alt="yijing-pro2" src="https://user-images.githubusercontent.com/28687074/187737523-374a0ed9-1f72-4f41-be7d-177ce5b3fda7.png">
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yijing-pro/yijing-pro2.png?versionId=CAEQUBiBgMCf3OOH0RciIDY2NTgxMWJmMjFkNjRiODBhMmQxZTFmOGVjMDk0YTE3)
-
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yijing-pro/yijing-pro3.png?versionId=CAEQUBiBgIDe2.OH0RciIDZmZTI4YjgxZTNmYzQxMzY5MGMxNWE4MDEyYWJhNGJm)
-
+<img alt="yijing-pro3" src="https://user-images.githubusercontent.com/28687074/187737553-cc7b51cc-268c-452e-9fb1-288c9fa8f9f1.png">
 
 目前核心功能都已经完成，就差补齐剩下的几十个卦的细节信息。
 
-## Html
+## [Html & SVG Icons](https://github.com/observer-creator/IChing-Icons)
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yi-jing/gitee/bagua.gif?versionId=CAEQUBiBgMCl.trdyRciIGQ5MmJmYTk1Njg2NjQwNWQ5OTQwMmEzMjE1ZWRmYTUx)
+![bagua](https://user-images.githubusercontent.com/28687074/187737200-b8f3837b-e33b-40ec-83f6-3bfa87b65d1b.gif)
 
 ### 八个基本卦（部分）
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yi-jing/gitee/8_e.png?versionId=CAEQUBiBgID4mfHPzBciIGVlZjExYjQ1ODJkNDQ3ZGE5ODljZDViNDUzMjU5M2Ex)
+<img alt="8_e" src="https://user-images.githubusercontent.com/28687074/187736447-62a8438f-c94b-43ab-8e50-391f4360a6cd.png">
 
-### 六十四个衍生卦（部分）
+## 六十四个衍生卦（部分）
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yi-jing/gitee/64_e.png?versionId=CAEQUBiBgID9m_HPzBciIDVjMmM2MmU0MWUyZjRjMTNhMGVkMTMzNDBhM2NhYmE0)
+<img alt="64_e" src="https://user-images.githubusercontent.com/28687074/187736524-e61c43ce-ee92-4261-ae55-6a9000a2ae73.png">
 
 现在网上能找到的大部分《东方桥先生的六十四卦变换表》是比较具有历史的沧桑感。看起来比较陈旧。
 故本人进行了重新制作与校对，内容上面和原来一致。只绘制了所有的SVG图标。如果需要使用此套图标，
@@ -40,7 +38,8 @@
 
 本系列更新较慢，因为所有的内容都是参照《周易》一个字一个字写出来的。
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yi-jing/gitee/0x03.png?versionId=CAEQUBiBgMCVyIHQzBciIDdlNjFhODQ2OWNjNDQxOTBiZjI3YzZhNzUxOTM2NjRh)
+![image](https://user-images.githubusercontent.com/28687074/187738480-b47eae3a-4ca8-4c29-8224-b257d9b31727.png)
+
 
 ## 最后
 
