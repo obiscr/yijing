@@ -1,3 +1,21 @@
+# Web版
+
+> [!NOTE]  
+> 新开发的Web版可以在这里预览: https://obiscr.com/iching
+> Web版可以更好的适应移动设备以及桌面设备。
+
+## 小型设备（手机）
+<img width="278" alt="iching-mobile-light" src="https://github.com/user-attachments/assets/184b0bce-a24f-42b7-b855-c076d4f30f2c">
+
+## 中等设备（平板）
+<img width="820" alt="iching-mobile-medium-light" src="https://github.com/user-attachments/assets/1cd37fd8-024f-4b48-811c-dcb1489c3219">
+
+## 桌面设备（电脑）
+<img width="1155" alt="iching-desktop-light" src="https://github.com/user-attachments/assets/b8ebc4ac-d9aa-44ec-816e-1fb8e7a745e2">
+<img width="1155" alt="iching-desktop-dark" src="https://github.com/user-attachments/assets/d57e12a0-f186-443e-a297-7fb17289d3bb">
+
+---
+
 # 易经
 
 基于C++开发的64卦变换表。
