@@ -1,7 +1,7 @@
 # Web版
 
 > [!NOTE]  
-> 新开发的Web版可以在这里预览: https://obiscr.com/iching
+> 新开发的Web版可以在这里预览: [64gua.online](https://64gua.online/)
 > Web版可以更好的适应移动设备以及桌面设备。
 
 ## 小型设备（手机）
